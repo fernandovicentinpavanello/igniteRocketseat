@@ -1,0 +1,6 @@
+node_modeules
+yarn.lock
+build
+npm-debug.log
+.env
+.DS_Store
