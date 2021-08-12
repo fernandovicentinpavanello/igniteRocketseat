@@ -1,6 +1,3 @@
 node_modules
-yarn.lock
-build
-npm-debug.log
-.env
+dist
 .DS_Store
