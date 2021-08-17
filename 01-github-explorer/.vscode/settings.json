@@ -1,7 +1,0 @@
-{
-  "cSpell.language": "en, pt-bt",
-  "editor.formatOnSave": true,
-  "eslint.alwaysShowStatus": true,
-  "eslint.packageManager": "yarn",
-  "eslint.format.enable": true
-}
